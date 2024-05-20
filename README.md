@@ -1,6 +1,6 @@
 # Data-Driven Recipe Evaluation, Analysis, and Complexity Ranking System
 ## Overview
-This repository contains the final project for CS-532: Database Systems, created by Sukrut Bidwai and Devang Jagdale. The project involves the development of a comprehensive data-driven system to evaluate, analyze, and rank recipes based on complexity and ingredient substitutions using MongoDB.
+This repository contains the final project for DB, created by Sukrut Bidwai and Devang Jagdale. The project involves the development of a comprehensive data-driven system to evaluate, analyze, and rank recipes based on complexity and ingredient substitutions using MongoDB.
 
 ## Disclaimer
 ## Privacy Notice
