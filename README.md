@@ -1,13 +1,13 @@
 # Data-Driven Recipe Evaluation, Analysis, and Complexity Ranking System
 ## Overview
-This repository contains the final project for DB, created by Sukrut Bidwai and Devang Jagdale. The project involves the development of a comprehensive data-driven system to evaluate, analyze, and rank recipes based on complexity and ingredient substitutions using MongoDB.
+This project involves developing a comprehensive data-driven system using MongoDB to evaluate, analyze, and rank recipes based on complexity and ingredient substitutions.
 
 ## Disclaimer
 ## Privacy Notice
 This project uses publicly available datasets that do not contain any personally identifiable information (PII). All user reviews and recipe data used are anonymized. Any resemblance to real persons, living or dead, or actual recipes is purely coincidental.
 
 ## Plagiarism Statement
-This project is the original work of Bidwai Sukrut Rahul and Jagdale Devang Dilip, completed as DB course. All code and documentation have been created by the team members, and any external resources or references used have been properly cited. Unauthorized copying or distribution of this project, in whole or in part, is strictly prohibited and would be penalized in its own brutal ways.
+Any external resources or references used have been properly cited. Unauthorized copying or distribution of this project, in whole or in part, is strictly prohibited and would be penalized in brutal ways.
 
 ## Table of Contents
 1. Project Overview
